@@ -1,3 +1,5 @@
+# Desafio: Calculo com potencia - Tiago Koakoski - 16/02/2023
+
 array = []
 puts "Digite o primeiro número: "
 array << gets.chomp.to_i
