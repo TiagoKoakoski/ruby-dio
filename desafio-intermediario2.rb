@@ -1,3 +1,4 @@
+# Desafio: Intermediario 2 - Tiago Koakoski - 16/02/2023
 precoDoGas = gets.to_i
 imposto = 0.1
 impostoCobrado = gets.to_i
